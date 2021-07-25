@@ -1,2 +1,2 @@
-# CPbyLUV
-Questions along with solutions from LUV channel
+# CP-2
+Competitive programming ques along with answers .
